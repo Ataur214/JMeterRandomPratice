@@ -1,0 +1,141 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1584852972297,10543,Homepage,200,OK,Thread Group 1-3,text,true,,56727,120,20,20,http://lifecharger.org/,9602,0,41
+1584852972343,11507,Homepage,200,OK,Thread Group 1-5,text,true,,56727,120,20,20,http://lifecharger.org/,9586,0,1
+1584852972297,11555,Homepage,200,OK,Thread Group 1-2,text,true,,56735,120,20,20,http://lifecharger.org/,10592,0,41
+1584852972482,11387,Homepage,200,OK,Thread Group 1-8,text,true,,56728,120,20,20,http://lifecharger.org/,10404,0,1
+1584852972433,11908,Homepage,200,OK,Thread Group 1-7,text,true,,56727,120,20,20,http://lifecharger.org/,10549,0,1
+1584852972788,11881,Homepage,200,OK,Thread Group 1-14,text,true,,56734,120,20,20,http://lifecharger.org/,11034,0,0
+1584852973031,11646,Homepage,200,OK,Thread Group 1-19,text,true,,56741,120,20,20,http://lifecharger.org/,9894,0,1
+1584852972297,12520,Homepage,200,OK,Thread Group 1-1,text,true,,56734,120,20,20,http://lifecharger.org/,11580,0,43
+1584852972736,12213,Homepage,200,OK,Thread Group 1-13,text,true,,56734,120,20,20,http://lifecharger.org/,11192,0,1
+1584852972384,12965,Homepage,200,OK,Thread Group 1-6,text,true,,56727,120,20,20,http://lifecharger.org/,11570,0,1
+1584852972297,14152,Homepage,200,OK,Thread Group 1-4,text,true,,56753,120,20,20,http://lifecharger.org/,11717,0,42
+1584852972834,13956,Homepage,200,OK,Thread Group 1-15,text,true,,56728,120,20,20,http://lifecharger.org/,12186,0,1
+1584852972881,14105,Homepage,200,OK,Thread Group 1-16,text,true,,56728,120,20,20,http://lifecharger.org/,11948,0,1
+1584852972982,14226,Homepage,200,OK,Thread Group 1-18,text,true,,56727,120,20,20,http://lifecharger.org/,11993,0,0
+1584852972932,14584,Homepage,200,OK,Thread Group 1-17,text,true,,56720,120,20,20,http://lifecharger.org/,12559,0,1
+1584852972688,14936,Homepage,200,OK,Thread Group 1-12,text,true,,56727,120,20,20,http://lifecharger.org/,12192,0,1
+1584852972532,15275,Homepage,200,OK,Thread Group 1-9,text,true,,56720,120,20,20,http://lifecharger.org/,14242,0,1
+1584852972582,15378,Homepage,200,OK,Thread Group 1-10,text,true,,56728,120,20,20,http://lifecharger.org/,14033,0,1
+1584852973079,15521,Homepage,200,OK,Thread Group 1-20,text,true,,56754,120,20,20,http://lifecharger.org/,12407,0,1
+1584852972637,16674,Homepage,200,OK,Thread Group 1-11,text,true,,56727,120,20,20,http://lifecharger.org/,11879,0,1
+1584852983851,13023,AboutPage,200,OK,Thread Group 1-5,text,true,,34767,251,20,20,http://lifecharger.org/about/,4111,0,1
+1584852983851,4111,AboutPage-0,301,Moved Permanently,Thread Group 1-5,text,true,,995,125,20,20,http://lifecharger.org/about,4111,0,1
+1584852987962,8912,AboutPage-1,200,OK,Thread Group 1-5,text,true,,33772,126,20,20,http://lifecharger.org/about/,7948,0,0
+1584852982842,14508,AboutPage,200,OK,Thread Group 1-3,text,true,,34774,251,20,20,http://lifecharger.org/about/,5059,0,1
+1584852982842,5059,AboutPage-0,301,Moved Permanently,Thread Group 1-3,text,true,,995,125,20,20,http://lifecharger.org/about,5059,0,1
+1584852987903,9447,AboutPage-1,200,OK,Thread Group 1-3,text,true,,33779,126,20,20,http://lifecharger.org/about/,8932,0,1
+1584852983869,14028,AboutPage,200,OK,Thread Group 1-8,text,true,,34767,251,20,20,http://lifecharger.org/about/,4134,0,1
+1584852983869,4134,AboutPage-0,301,Moved Permanently,Thread Group 1-8,text,true,,995,125,20,20,http://lifecharger.org/about,4134,0,1
+1584852988003,9894,AboutPage-1,200,OK,Thread Group 1-8,text,true,,33772,126,20,20,http://lifecharger.org/about/,8959,0,1
+1584852984341,14538,AboutPage,200,OK,Thread Group 1-7,text,true,,34781,251,20,20,http://lifecharger.org/about/,4605,0,1
+1584852984341,4605,AboutPage-0,301,Moved Permanently,Thread Group 1-7,text,true,,995,125,20,20,http://lifecharger.org/about,4605,0,1
+1584852988947,9932,AboutPage-1,200,OK,Thread Group 1-7,text,true,,33786,126,20,20,http://lifecharger.org/about/,8990,0,0
+1584852984818,14528,AboutPage,200,OK,Thread Group 1-1,text,true,,34781,251,20,20,http://lifecharger.org/about/,5117,0,1
+1584852984818,5117,AboutPage-0,301,Moved Permanently,Thread Group 1-1,text,true,,995,125,20,20,http://lifecharger.org/about,5117,0,1
+1584852989935,9411,AboutPage-1,200,OK,Thread Group 1-1,text,true,,33786,126,20,20,http://lifecharger.org/about/,8901,0,1
+1584852984950,15943,AboutPage,200,OK,Thread Group 1-13,text,true,,34774,251,20,20,http://lifecharger.org/about/,3944,0,1
+1584852984950,3944,AboutPage-0,301,Moved Permanently,Thread Group 1-13,text,true,,995,125,20,20,http://lifecharger.org/about,3944,0,1
+1584852988894,11999,AboutPage-1,200,OK,Thread Group 1-13,text,true,,33779,126,20,20,http://lifecharger.org/about/,10951,0,1
+1584852983853,18028,AboutPage,200,OK,Thread Group 1-2,text,true,,34774,251,20,20,http://lifecharger.org/about/,5993,0,0
+1584852983853,5993,AboutPage-0,301,Moved Permanently,Thread Group 1-2,text,true,,995,125,20,20,http://lifecharger.org/about,5993,0,0
+1584852989846,12035,AboutPage-1,200,OK,Thread Group 1-2,text,true,,33779,126,20,20,http://lifecharger.org/about/,11110,0,1
+1584852984669,17358,AboutPage,200,OK,Thread Group 1-14,text,true,,34767,251,20,20,http://lifecharger.org/about/,6268,0,1
+1584852984669,6268,AboutPage-0,301,Moved Permanently,Thread Group 1-14,text,true,,995,125,20,20,http://lifecharger.org/about,6268,0,1
+1584852990937,11090,AboutPage-1,200,OK,Thread Group 1-14,text,true,,33772,126,20,20,http://lifecharger.org/about/,10024,0,1
+1584852984677,19265,AboutPage,200,OK,Thread Group 1-19,text,true,,34795,251,20,20,http://lifecharger.org/about/,8171,0,1
+1584852984677,8171,AboutPage-0,301,Moved Permanently,Thread Group 1-19,text,true,,995,125,20,20,http://lifecharger.org/about,8171,0,1
+1584852992848,11094,AboutPage-1,200,OK,Thread Group 1-19,text,true,,33800,126,20,20,http://lifecharger.org/about/,9018,0,1
+1584852987516,17328,AboutPage,200,OK,Thread Group 1-17,text,true,,34767,251,20,20,http://lifecharger.org/about/,7397,0,1
+1584852987516,7397,AboutPage-0,301,Moved Permanently,Thread Group 1-17,text,true,,995,125,20,20,http://lifecharger.org/about,7397,0,1
+1584852994913,9931,AboutPage-1,200,OK,Thread Group 1-17,text,true,,33772,126,20,20,http://lifecharger.org/about/,8988,0,1
+1584852986791,19049,AboutPage,200,OK,Thread Group 1-15,text,true,,34767,251,20,20,http://lifecharger.org/about/,9082,0,1
+1584852986791,9082,AboutPage-0,301,Moved Permanently,Thread Group 1-15,text,true,,995,125,20,20,http://lifecharger.org/about,9082,0,1
+1584852995873,9967,AboutPage-1,200,OK,Thread Group 1-15,text,true,,33772,126,20,20,http://lifecharger.org/about/,9011,0,2
+1584852986449,19412,AboutPage,200,OK,Thread Group 1-4,text,true,,34787,251,20,20,http://lifecharger.org/about/,9396,0,1
+1584852986449,9396,AboutPage-0,301,Moved Permanently,Thread Group 1-4,text,true,,995,125,20,20,http://lifecharger.org/about,9396,0,1
+1584852995845,10016,AboutPage-1,200,OK,Thread Group 1-4,text,true,,33792,126,20,20,http://lifecharger.org/about/,9072,0,2
+1584852985349,21476,AboutPage,200,OK,Thread Group 1-6,text,true,,34774,251,20,20,http://lifecharger.org/about/,11539,0,1
+1584852985349,11539,AboutPage-0,301,Moved Permanently,Thread Group 1-6,text,true,,995,125,20,20,http://lifecharger.org/about,11539,0,1
+1584852996888,9937,AboutPage-1,200,OK,Thread Group 1-6,text,true,,33779,126,20,20,http://lifecharger.org/about/,8999,0,2
+1584852987208,20212,AboutPage,200,OK,Thread Group 1-18,text,true,,34767,251,20,20,http://lifecharger.org/about/,10727,0,1
+1584852987208,10727,AboutPage-0,301,Moved Permanently,Thread Group 1-18,text,true,,995,125,20,20,http://lifecharger.org/about,10727,0,1
+1584852997935,9485,AboutPage-1,200,OK,Thread Group 1-18,text,true,,33772,126,20,20,http://lifecharger.org/about/,8969,0,2
+1584852987625,20175,AboutPage,200,OK,Thread Group 1-12,text,true,,34774,251,20,20,http://lifecharger.org/about/,9253,0,1
+1584852987625,9253,AboutPage-0,301,Moved Permanently,Thread Group 1-12,text,true,,995,125,20,20,http://lifecharger.org/about,9253,0,1
+1584852996878,10922,AboutPage-1,200,OK,Thread Group 1-12,text,true,,33779,126,20,20,http://lifecharger.org/about/,9072,0,1
+1584852987807,20058,AboutPage,200,OK,Thread Group 1-9,text,true,,34767,251,20,20,http://lifecharger.org/about/,10128,0,1
+1584852987807,10128,AboutPage-0,301,Moved Permanently,Thread Group 1-9,text,true,,995,125,20,20,http://lifecharger.org/about,10128,0,1
+1584852997935,9930,AboutPage-1,200,OK,Thread Group 1-9,text,true,,33772,126,20,20,http://lifecharger.org/about/,9021,0,2
+1584852986986,21381,AboutPage,200,OK,Thread Group 1-16,text,true,,34767,251,20,20,http://lifecharger.org/about/,8878,0,1
+1584852986986,8878,AboutPage-0,301,Moved Permanently,Thread Group 1-16,text,true,,995,125,20,20,http://lifecharger.org/about,8878,0,1
+1584852995865,12502,AboutPage-1,200,OK,Thread Group 1-16,text,true,,33772,126,20,20,http://lifecharger.org/about/,11988,0,1
+1584852987961,20426,AboutPage,200,OK,Thread Group 1-10,text,true,,34767,251,20,20,http://lifecharger.org/about/,10005,0,1
+1584852987961,10005,AboutPage-0,301,Moved Permanently,Thread Group 1-10,text,true,,995,125,20,20,http://lifecharger.org/about,10005,0,1
+1584852997966,10421,AboutPage-1,200,OK,Thread Group 1-10,text,true,,33772,126,20,20,http://lifecharger.org/about/,9907,0,2
+1584852988600,21219,AboutPage,200,OK,Thread Group 1-20,text,true,,34774,251,20,20,http://lifecharger.org/about/,10312,0,1
+1584852988600,10312,AboutPage-0,301,Moved Permanently,Thread Group 1-20,text,true,,995,125,20,20,http://lifecharger.org/about,10312,0,1
+1584852998913,10906,AboutPage-1,200,OK,Thread Group 1-20,text,true,,33779,126,20,20,http://lifecharger.org/about/,9984,0,1
+1584852989312,22520,AboutPage,200,OK,Thread Group 1-11,text,true,,34802,251,20,20,http://lifecharger.org/about/,10570,0,2
+1584852989312,10570,AboutPage-0,301,Moved Permanently,Thread Group 1-11,text,true,,995,125,20,20,http://lifecharger.org/about,10570,0,2
+1584852999882,11950,AboutPage-1,200,OK,Thread Group 1-11,text,true,,33807,126,20,20,http://lifecharger.org/about/,10985,0,1
+1584852997898,18057,ArchivesPage,200,OK,Thread Group 1-8,text,true,,44792,257,20,20,http://lifecharger.org/archives/,8049,0,2
+1584852997898,8049,ArchivesPage-0,301,Moved Permanently,Thread Group 1-8,text,true,,951,128,20,20,http://lifecharger.org/archives,8049,0,2
+1584853005948,10007,ArchivesPage-1,200,OK,Thread Group 1-8,text,true,,43841,129,20,20,http://lifecharger.org/archives/,9006,0,0
+1584852996876,21451,ArchivesPage,200,OK,Thread Group 1-5,text,true,,44792,257,19,19,http://lifecharger.org/archives/,9002,0,1
+1584852996876,9002,ArchivesPage-0,301,Moved Permanently,Thread Group 1-5,text,true,,951,128,19,19,http://lifecharger.org/archives,9002,0,1
+1584853005878,12449,ArchivesPage-1,200,OK,Thread Group 1-5,text,true,,43841,129,19,19,http://lifecharger.org/archives/,11930,0,1
+1584852997351,20994,ArchivesPage,200,OK,Thread Group 1-3,text,true,,44784,257,18,18,http://lifecharger.org/archives/,9543,0,1
+1584852997351,9543,ArchivesPage-0,301,Moved Permanently,Thread Group 1-3,text,true,,951,128,18,18,http://lifecharger.org/archives,9543,0,1
+1584853006895,11450,ArchivesPage-1,200,OK,Thread Group 1-3,text,true,,43833,129,18,18,http://lifecharger.org/archives/,10928,0,0
+1584852998879,20494,ArchivesPage,200,OK,Thread Group 1-7,text,true,,44798,257,17,17,http://lifecharger.org/archives/,9063,0,2
+1584852998879,9063,ArchivesPage-0,301,Moved Permanently,Thread Group 1-7,text,true,,951,128,17,17,http://lifecharger.org/archives,9063,0,2
+1584853007942,11431,ArchivesPage-1,200,OK,Thread Group 1-7,text,true,,43847,129,17,17,http://lifecharger.org/archives/,10881,0,1
+1584853002028,17824,ArchivesPage,200,OK,Thread Group 1-14,text,true,,44791,257,16,16,http://lifecharger.org/archives/,7868,0,1
+1584853002028,7868,ArchivesPage-0,301,Moved Permanently,Thread Group 1-14,text,true,,951,128,16,16,http://lifecharger.org/archives,7868,0,1
+1584853009896,9956,ArchivesPage-1,200,OK,Thread Group 1-14,text,true,,43840,129,16,16,http://lifecharger.org/archives/,9016,0,1
+1584852999346,21473,ArchivesPage,200,OK,Thread Group 1-1,text,true,,44832,257,15,15,http://lifecharger.org/archives/,11489,0,2
+1584852999346,11489,ArchivesPage-0,301,Moved Permanently,Thread Group 1-1,text,true,,951,128,15,15,http://lifecharger.org/archives,11489,0,2
+1584853010835,9984,ArchivesPage-1,200,OK,Thread Group 1-1,text,true,,43881,129,15,15,http://lifecharger.org/archives/,9063,0,1
+1584853000893,19950,ArchivesPage,200,OK,Thread Group 1-13,text,true,,44858,257,14,14,http://lifecharger.org/archives/,9951,0,1
+1584853000893,9951,ArchivesPage-0,301,Moved Permanently,Thread Group 1-13,text,true,,951,128,14,14,http://lifecharger.org/archives,9951,0,1
+1584853010845,9998,ArchivesPage-1,200,OK,Thread Group 1-13,text,true,,43907,129,14,14,http://lifecharger.org/archives/,9050,0,0
+1584853001881,19929,ArchivesPage,200,OK,Thread Group 1-2,text,true,,44798,257,13,13,http://lifecharger.org/archives/,9942,0,1
+1584853001881,9942,ArchivesPage-0,301,Moved Permanently,Thread Group 1-2,text,true,,951,128,13,13,http://lifecharger.org/archives,9942,0,1
+1584853011824,9986,ArchivesPage-1,200,OK,Thread Group 1-2,text,true,,43847,129,13,13,http://lifecharger.org/archives/,9069,0,0
+1584853005841,16509,ArchivesPage,200,OK,Thread Group 1-15,text,true,,44819,257,12,12,http://lifecharger.org/archives/,8035,0,0
+1584853005841,8035,ArchivesPage-0,301,Moved Permanently,Thread Group 1-15,text,true,,951,128,12,12,http://lifecharger.org/archives,8035,0,0
+1584853013876,8474,ArchivesPage-1,200,OK,Thread Group 1-15,text,true,,43868,129,12,12,http://lifecharger.org/archives/,7956,0,1
+1584853004845,17965,ArchivesPage,200,OK,Thread Group 1-17,text,true,,44833,257,11,11,http://lifecharger.org/archives/,8988,0,1
+1584853004845,8988,ArchivesPage-0,301,Moved Permanently,Thread Group 1-17,text,true,,951,128,11,11,http://lifecharger.org/archives,8988,0,1
+1584853013833,8977,ArchivesPage-1,200,OK,Thread Group 1-17,text,true,,43882,129,11,11,http://lifecharger.org/archives/,8097,0,1
+1584853005862,16950,ArchivesPage,200,OK,Thread Group 1-4,text,true,,44798,257,10,10,http://lifecharger.org/archives/,8048,0,1
+1584853005862,8048,ArchivesPage-0,301,Moved Permanently,Thread Group 1-4,text,true,,951,128,10,10,http://lifecharger.org/archives,8048,0,1
+1584853013910,8902,ArchivesPage-1,200,OK,Thread Group 1-4,text,true,,43847,129,10,10,http://lifecharger.org/archives/,8042,0,1
+1584853003943,19607,ArchivesPage,200,OK,Thread Group 1-19,text,true,,44791,257,9,9,http://lifecharger.org/archives/,10909,0,1
+1584853003943,10909,ArchivesPage-0,301,Moved Permanently,Thread Group 1-19,text,true,,951,128,9,9,http://lifecharger.org/archives,10909,0,1
+1584853014852,8698,ArchivesPage-1,200,OK,Thread Group 1-19,text,true,,43840,129,9,9,http://lifecharger.org/archives/,8056,0,1
+1584853006825,16849,ArchivesPage,200,OK,Thread Group 1-6,text,true,,44791,257,8,8,http://lifecharger.org/archives/,9012,0,1
+1584853006825,9012,ArchivesPage-0,301,Moved Permanently,Thread Group 1-6,text,true,,951,128,8,8,http://lifecharger.org/archives,9012,0,1
+1584853015838,7836,ArchivesPage-1,200,OK,Thread Group 1-6,text,true,,43840,129,8,8,http://lifecharger.org/archives/,7156,0,1
+1584853008367,15537,ArchivesPage,200,OK,Thread Group 1-16,text,true,,44784,257,7,7,http://lifecharger.org/archives/,8458,0,1
+1584853008367,8458,ArchivesPage-0,301,Moved Permanently,Thread Group 1-16,text,true,,951,128,7,7,http://lifecharger.org/archives,8458,0,1
+1584853016826,7078,ArchivesPage-1,200,OK,Thread Group 1-16,text,true,,43833,129,7,7,http://lifecharger.org/archives/,6165,0,2
+1584853007420,16557,ArchivesPage,200,OK,Thread Group 1-18,text,true,,44784,257,6,6,http://lifecharger.org/archives/,9521,0,1
+1584853007420,9521,ArchivesPage-0,301,Moved Permanently,Thread Group 1-18,text,true,,951,128,6,6,http://lifecharger.org/archives,9521,0,1
+1584853016941,7036,ArchivesPage-1,200,OK,Thread Group 1-18,text,true,,43833,129,6,6,http://lifecharger.org/archives/,6124,0,1
+1584853007866,16399,ArchivesPage,200,OK,Thread Group 1-9,text,true,,44811,257,5,5,http://lifecharger.org/archives/,9016,0,1
+1584853007866,9016,ArchivesPage-0,301,Moved Permanently,Thread Group 1-9,text,true,,951,128,5,5,http://lifecharger.org/archives,9016,0,1
+1584853016883,7382,ArchivesPage-1,200,OK,Thread Group 1-9,text,true,,43860,129,5,5,http://lifecharger.org/archives/,6215,0,1
+1584853009819,14599,ArchivesPage,200,OK,Thread Group 1-20,text,true,,44819,257,4,4,http://lifecharger.org/archives/,8130,0,1
+1584853009819,8130,ArchivesPage-0,301,Moved Permanently,Thread Group 1-20,text,true,,951,128,4,4,http://lifecharger.org/archives,8130,0,1
+1584853017950,6468,ArchivesPage-1,200,OK,Thread Group 1-20,text,true,,43868,129,4,4,http://lifecharger.org/archives/,5915,0,1
+1584853011832,12784,ArchivesPage,200,OK,Thread Group 1-11,text,true,,44833,257,3,3,http://lifecharger.org/archives/,9043,0,1
+1584853011832,9043,ArchivesPage-0,301,Moved Permanently,Thread Group 1-11,text,true,,951,128,3,3,http://lifecharger.org/archives,9043,0,1
+1584853020875,3741,ArchivesPage-1,200,OK,Thread Group 1-11,text,true,,43882,129,3,3,http://lifecharger.org/archives/,3227,0,1
+1584853008387,16464,ArchivesPage,200,OK,Thread Group 1-10,text,true,,44792,257,2,2,http://lifecharger.org/archives/,9425,0,1
+1584853008387,9425,ArchivesPage-0,301,Moved Permanently,Thread Group 1-10,text,true,,951,128,2,2,http://lifecharger.org/archives,9425,0,1
+1584853017812,7039,ArchivesPage-1,200,OK,Thread Group 1-10,text,true,,43841,129,2,2,http://lifecharger.org/archives/,5352,0,2
+1584853007800,17060,ArchivesPage,200,OK,Thread Group 1-12,text,true,,44784,257,1,1,http://lifecharger.org/archives/,9082,0,1
+1584853007800,9082,ArchivesPage-0,301,Moved Permanently,Thread Group 1-12,text,true,,951,128,1,1,http://lifecharger.org/archives,9082,0,1
+1584853016883,7977,ArchivesPage-1,200,OK,Thread Group 1-12,text,true,,43833,129,1,1,http://lifecharger.org/archives/,6028,0,1

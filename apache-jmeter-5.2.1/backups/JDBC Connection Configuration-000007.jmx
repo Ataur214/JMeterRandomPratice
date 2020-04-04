@@ -55,7 +55,7 @@
           <stringProp name="resultSetHandler">Store as String</stringProp>
           <stringProp name="resultSetMaxRows"></stringProp>
           <stringProp name="resultVariable"></stringProp>
-          <stringProp name="variableNames">,c2</stringProp>
+          <stringProp name="variableNames">c1,c2</stringProp>
         </JDBCSampler>
         <hashTree/>
         <ResultCollector guiclass="TableVisualizer" testclass="ResultCollector" testname="View Results in Table" enabled="true">
