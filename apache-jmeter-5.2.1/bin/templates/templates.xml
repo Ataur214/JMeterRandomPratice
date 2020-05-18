@@ -234,4 +234,16 @@
             </ul>
         ]]></description>
     </template>
+	
+	    <template isTestPlan="true">
+        <name>Test Template</name>
+        <fileName>/bin/templates/corelation.jmx</fileName>
+        <description><![CDATA[
+        <h1>Test plan from Building an Extended LDAP Test Plan section in user's manual</h1>
+        <h2>Useful link</h2>
+            <ul>
+                <li><a href="http://jmeter.apache.org/usermanual/build-ldapext-test-plan.html" >http://jmeter.apache.org/usermanual/build-ldapext-test-plan.html</a></li>
+            </ul>       
+        ]]></description>
+    </template>
 </templates>
